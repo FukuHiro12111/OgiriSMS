@@ -18,7 +18,7 @@ $ yarn generate
 ```
 ## 使用技術
 - Nuxt.js
-- FireBase(FireStore, Authentication, Hosting)
+- Firebase(Firestore, Authentication, Hosting)
 - HTML
 - CSS
 
